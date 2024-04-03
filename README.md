@@ -26,7 +26,7 @@
 
   - 💬 I am 22 years old and currently live in Salvador. I have experience with SQL, Python, JavaScript, HTML, CSS and C++.
 
-  - ⚡I like reading, whether it's a good book, manga or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems. \O/
+  - ⚡I like reading, whether it's a good book, manga or comics, as well as watching movies, playing games and enjoying good music! I believe that our personal interests contribute to a more accurate perception of things and to solving problems.
     
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nrzxvsa6l5yakzpocljqew5lda&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
    
