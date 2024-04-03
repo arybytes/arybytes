@@ -11,10 +11,7 @@
 
 <!-- Apresentação -->
 <p>
- 👋 Oi, eu sou o Chris! Um apaixonado estudante de Ciência de Dados do Brasil.
-
-@@ -23,6 +13,7 @@
-  - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com IA e Machine Learning.
+ 👋 Oi, eu sou a Aryane! 
 </p>
 
 <div align="center">
