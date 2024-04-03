@@ -11,7 +11,9 @@
 
 
 <p align="left">👋 Hi, I'm Aryane! </p>
-<p align="left">- 🔭I'm a computer technician<br>- 📚  I'm studying Computer Engineering<br>- ⚡ In my free time I like to learn new languages</p>
+<p align="left">- 🔭I'm a computer technician<br>
+  - 📚  I am currently studying Computer Engineering <br>
+  - ⚡ In my free time I like to learn new languages</p>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
