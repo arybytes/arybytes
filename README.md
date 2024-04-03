@@ -16,6 +16,8 @@
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nrzxvsa6l5yakzpocljqew5lda&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 
 
