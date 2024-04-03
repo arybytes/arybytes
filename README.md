@@ -8,7 +8,7 @@
 
 - Sou técnica em informática.
   
-- Atualmente estou cursando Engenharia da Computação.
+- Estudante de Engenharia da Computação.
 
 - Estou direcionando meus esforços e aprimorando minhas habilidades no desenvolvimento de back-end.
 </p>
