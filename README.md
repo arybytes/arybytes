@@ -73,16 +73,25 @@
 </div>
 
   <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3> Ferramentas & Bibliotecas </h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  </div>
-  
+ <div style="flex-basis: 48%;">
+    <h3>Ferramentas & Bibliotecas</h3>
+    <figure>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo">
+        <figcaption style="display: block; text-align: center;">Microsoft SQL Server</figcaption>
+    </figure>
+    <figure>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo">
+        <figcaption style="display: block; text-align: center;">MySQL</figcaption>
+    </figure>
+    <figure>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo">
+        <figcaption style="display: block; text-align: center;">Arduino</figcaption>
+    </figure>
+    <figure>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo">
+        <figcaption style="display: block; text-align: center;">PyCharm</figcaption>
+    </figure>
+</div>
+
 ###
 
