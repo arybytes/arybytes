@@ -70,6 +70,8 @@
         <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
         <figcaption style="display: block; text-align: center;">Java</figcaption>
     </figure>
+ [[!Python]https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white]()
+ 
 </div>
 
   <!-- Skills: Tools & Frameworks -->
