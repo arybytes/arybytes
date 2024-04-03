@@ -11,7 +11,7 @@
 
 
 <p align="left">👋 Hi, I'm Aryane! </p>
-
+<p align="left">- 🔭I'm a computer technician<br>- 📚  I'm studying Computer Engineering<br>- ⚡ In my free time I like to learn new languages</p>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">- 🔭I'm a computer technician<br>- 📚  I'm studying Computer Engineering<br>- ⚡ In my free time I like to learn new languages</p>
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nrzxvsa6l5yakzpocljqew5lda&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ###
