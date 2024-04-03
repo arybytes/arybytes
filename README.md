@@ -11,7 +11,7 @@
 
 <!-- Apresentação -->
 <p>
- 👋 Oi, eu sou a Aryane! 
+ 👋 Hi, I'm Aryane!
 </p>
 
 <div align="center">
