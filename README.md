@@ -33,6 +33,18 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nrzxvsa6l5yakzpocljqew5lda&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ###
 
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  </div>
+
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
