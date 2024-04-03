@@ -79,14 +79,12 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
 
 
 <br clear="both">
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=arybytes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=arybytes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="100" alt="streak graph"  />
 </div>
 
 ###
