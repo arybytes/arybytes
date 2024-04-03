@@ -11,7 +11,7 @@
 
 
 <p>
-👋 Olá, me chamo Aryane!
+ Olá! meu nome é Aryane 👋 
 
 - 🎓Sou técnica em informática.
   
