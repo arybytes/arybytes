@@ -11,9 +11,16 @@
 
 <!-- Apresentação -->
 <p>
- 👋 Hi, I'm Aryane!
+ 👋 Hi, I'm Aryane! 
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
 
+<!-- Dropdown -->
+<details>
+  <summary>👩‍💻  About Me </summary>
+🔭I'm a computer technician<br>- 📚  I'm studying Computer Engineering<br>- ⚡ In my free time I like to learn new languages
+
+</details>
 <div align="center">
   <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bq%2B9jHedPTUWfe7KfZXZh8g%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -29,10 +36,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=arybytes.arybytes&"  />
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
