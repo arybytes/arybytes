@@ -75,11 +75,9 @@
   <!-- Skills: Tools & Frameworks -->
 <div style="flex-basis: 48%;">
     <h3> Ferramentas & Bibliotecas </h3> 
-    <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
         <p>Microsoft SQL Server</p>
-    </div>
-    <img width="12" />
+        <img width="12" />
     <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
         <p>MySQL</p>
