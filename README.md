@@ -73,11 +73,11 @@
 </div>
 
   <!-- Skills: Tools & Frameworks -->
- <div style="flex-basis: 48%;">
+<div style="flex-basis: 48%;">
     <h3>Ferramentas & Bibliotecas</h3>
     <figure>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo">
-        <figcaption style="display: block; text-align: center;"> SQL Server</figcaption>
+        <figcaption style="display: block; text-align: center;">Microsoft SQL Server</figcaption>
     </figure>
     <figure>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo">
@@ -92,6 +92,3 @@
         <figcaption style="display: block; text-align: center;">PyCharm</figcaption>
     </figure>
 </div>
-
-###
-
