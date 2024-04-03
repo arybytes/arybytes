@@ -9,7 +9,13 @@
 
 
 
-<div align="center">
+
+<p align="left">👋 Hi, I'm Aryane! </p>
+
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+<div align="left">
   <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bq%2B9jHedPTUWfe7KfZXZh8g%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -19,10 +25,6 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
-<p align="left">👋 Hi, I'm Aryane! </p>
-
-
-<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
