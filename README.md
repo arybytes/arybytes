@@ -11,9 +11,9 @@
 
 
 <p>
-👋 Olá, sou Aryane!
+👋 Olá, me chamo Aryane!
 
-- 🎓Sou técnicq em informática.
+- 🎓Sou técnica em informática.
   
 - 📚 Atualmente estou cursando Engenharia da Computação.
 
