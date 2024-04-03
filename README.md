@@ -75,19 +75,19 @@
 <div style="flex-basis: 20%;">
     <h3> Ferramentas & Bibliotecas </h3> 
         <figure>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"/>
+        <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="microsoftsqlserver logo"/>
         <figcaption style="display: block; text-align: center;">SQL Server</figcaption>
         </figure>
         <figure>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+        <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql logo"/>
         <figcaption style="display: block; text-align: center;">MySQL</figcaption>
         </figure>  
         <figure>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"/>
+        <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino logo"/>
         <figcaption style="display: block; text-align: center;">Arduino</figcaption>
         </figure>
         <figure>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+        <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm logo"  />
         <figcaption style="display: block; text-align: center;">PyCharm</figcaption>
         </figure>
     </div>
