@@ -28,7 +28,7 @@
 
   - ⚡I like reading, watching movies, playing games and enjoying good music (yes, I'm referring to Amy Winehouse)! I believe that our personal interests contribute to a more accurate perception of things and to solving problems. 
 
-!https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG?si=LZP04hkoS-uV_J-GDcvX6w
+!"https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG?si=LZP04hkoS-uV_J-GDcvX6w"
    
 </details>
 
