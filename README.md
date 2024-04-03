@@ -10,7 +10,7 @@
   
 - Atualmente estou cursando Engenharia da Computação.
 
--  Estou em busca de uma oportunidade de emprego/estágio.
+- Estou direcionando meus esforços e aprimorando minhas habilidades no desenvolvimento de back-end.
 </p>
 
 <details>
