@@ -77,13 +77,13 @@
     <h3> Ferramentas & Bibliotecas </h3> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
         <p>Microsoft SQL Server</p>
-        <img width="12" />
+        <img width="12">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
         <p>MySQL</p>
-        <img width="12" />
+        <img width="12">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
         <p>Arduino</p>
-        <img width="12" />
+        <img width="12">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
         <p>PyCharm</p>
 </div>
