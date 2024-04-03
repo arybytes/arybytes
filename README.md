@@ -12,10 +12,12 @@
 
 <p>
 👋 Hi, I'm Aryane!
+
+- 🎓 I'm a computer technician.
   
-- 🔭I'm a computer technician
-  
-- 📚  I am currently studying Computer Engineering
+- 📚  I am currently studying Computer Engineering.
+
+- 🔭 I am looking for my first job opportunity.
   
 - ⚡ In my free time I like to learn new languages
 </p>
