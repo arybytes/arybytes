@@ -73,7 +73,7 @@
 </div>
 
   <!-- Skills: Tools & Frameworks -->
-<div style="flex-basis: 20%;">
+<div style="flex-basis: 10%;">
     <h3>Ferramentas & Bibliotecas</h3>
     <figure>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo">
