@@ -10,9 +10,13 @@
 
 
 
-<p>👋 Hi, I'm Aryane! 
+<p>
+👋 Hi, I'm Aryane!
+  
 - 🔭I'm a computer technician
-- 📚  I am currently studying Computer Engineering 
+  
+- 📚  I am currently studying Computer Engineering
+  
 - ⚡ In my free time I like to learn new languages
 </p>
 
