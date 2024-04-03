@@ -12,11 +12,14 @@
 <!-- Apresentação -->
 <p>
  👋 Hi, I'm Aryane!<br>
+  <p align="left">- 🔭I'm a computer technician<br>- 📚  I'm studying Computer Engineering<br>- ⚡ In my free time I like to learn new languages</p>
   
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
 
 
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bq%2B9jHedPTUWfe7KfZXZh8g%3D%3D" target="_blank">
@@ -27,11 +30,6 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
 ###
 
 <p align="left">- 🔭I'm a computer technician<br>- 📚  I'm studying Computer Engineering<br>- ⚡ In my free time I like to learn new languages</p>
