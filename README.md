@@ -72,25 +72,22 @@
       </figure>
 </div>
 
-  <!-- Skills: Tools & Frameworks -->
-<div style="display: flex; justify-content: center;">
-    <div style="flex-basis: 10%; text-align: center;">
-        <h3> Ferramentas & Bibliotecas </h3> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"/><br>
-        SQL Server
+<div style="flex-basis: 20%;">
+    <h3> Ferramentas & Bibliotecas </h3> 
+        <figure>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"/>
+        <figcaption style="display: block; text-align: center;">SQL Server</figcaption>
+        </figure>
+        <figure>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+        <figcaption style="display: block; text-align: center;">MySQL</figcaption>
+        </figure>  
+        <figure>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"/>
+        <figcaption style="display: block; text-align: center;">Arduino</figcaption>
+        </figure>
+        <figure>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+        <figcaption style="display: block; text-align: center;">PyCharm</figcaption>
+        </figure>
     </div>
-    <div style="flex-basis: 10%; text-align: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /><br>
-        MySQL
-    </div>
-    <div style="flex-basis: 10%; text-align: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  /><br>
-        Arduino
-    </div>
-    <div style="flex-basis: 10%; text-align: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  /><br>
-        PyCharm
-    </div>
-</div>
-
-
