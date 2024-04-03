@@ -75,12 +75,12 @@
   <!-- Skills: Tools & Frameworks -->
 <div style="flex-basis: 48%;">
     <h3> Ferramentas & Bibliotecas </h3> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo">
-        <p> SQL Server</p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"/>
+        <p> SQL Server<p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-        <p>MySQL</p>
+        <p>MySQL<p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-        <p>Arduino</p>
+        <p>Arduino<p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-        <p>PyCharm</p>
+        <p>PyCharm<p>
 </div>
