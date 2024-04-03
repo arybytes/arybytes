@@ -6,11 +6,11 @@
 <p>
  Olá! meu nome é Aryane 👋 
 
-- 🎓Sou técnica em informática.
+- Sou técnica em informática.
   
-- 📚 Atualmente estou cursando Engenharia da Computação.
+- Atualmente estou cursando Engenharia da Computação.
 
-- 🔭 Estou em busca da minha primeira oportunidade de emprego/estágio.
+-  Estou em busca da minha primeira oportunidade de emprego/estágio.
 </p>
 
 <details>
