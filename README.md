@@ -47,29 +47,30 @@
     <h3>Linguagens de Programação</h3>
     <figure>
         <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <figcaption>JavaScript</figcaption>
+        <figcaption style="display: block;">JavaScript</figcaption>
     </figure>
     <figure>
         <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        <figcaption>HTML</figcaption>
+        <figcaption style="display: block;">HTML</figcaption>
     </figure>
     <figure>
         <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <figcaption>CSS</figcaption>
+        <figcaption style="display: block;">CSS</figcaption>
     </figure>
     <figure>
         <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-        <figcaption>Python</figcaption>
+        <figcaption style="display: block;">Python</figcaption>
     </figure>
     <figure>
         <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-        <figcaption>C</figcaption>
+        <figcaption style="display: block;">C</figcaption>
     </figure>
     <figure>
         <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-        <figcaption>Java</figcaption>
+        <figcaption style="display: block;">Java</figcaption>
     </figure>
 </div>
+
 
 
   <div style="flex-basis: 20%;">
