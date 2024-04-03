@@ -11,22 +11,21 @@
 
 
 <p>
-👋 Hi, I'm Aryane!
+👋 Olá, sou Aryane!
 
-- 🎓 I'm a computer technician.
+- 🎓Sou técnicq em informática.
   
-- 📚  I am currently studying Computer Engineering.
+- 📚 Atualmente estou cursando Engenharia da Computação.
 
-- 🔭 I am looking for my first job opportunity.
-
+- 🔭 Estou em busca da minha primeira oportunidade de emprego.
 </p>
 
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary> 👨‍💻 Mais sobre mim</summary>
 
-  - 💬 I am 22 years old and currently live in Salvador. I have experience with SQL, Python, JavaScript, HTML, CSS and C++.
+   - 💬 Tenho 22 anos e atualmente moro em Salvador. Tenho experiência com SQL, Python, JavaScript, HTML, CSS e C++.
 
-  - ⚡I like reading, watching movies, playing games and enjoying good music (like Amy Winehouse)! I believe that our personal interests contribute to a more accurate perception of things and to solving problems.
+   - ⚡Gosto de ler, assistir filmes, jogar e curtir uma boa música (tipo Amy Winehouse)! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas.
 
    
 </details>
