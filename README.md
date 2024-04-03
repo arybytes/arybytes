@@ -74,16 +74,15 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   </div>
-
-
+  
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+
+## 🔥 My Stats
 
 
 <br clear="both">
-
-<div align="left">
+<div style="flex-basis: 48%;">
   <img src="https://streak-stats.demolab.com?user=arybytes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
 </div>
 
