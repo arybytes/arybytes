@@ -26,9 +26,8 @@
 
   - 💬 I am 22 years old and currently live in Salvador. I have experience with SQL, Python, JavaScript, HTML, CSS and C++.
 
-  - ⚡I like reading, watching movies, playing games and enjoying good music (yes, I'm referring to Amy Winehouse)! I believe that our personal interests contribute to a more accurate perception of things and to solving problems. 
+  - ⚡I like reading, watching movies, playing games and enjoying good music (like Amy Winehouse)! I believe that our personal interests contribute to a more accurate perception of things and to solving problems.
 
-!"https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG?si=LZP04hkoS-uV_J-GDcvX6w"
    
 </details>
 
