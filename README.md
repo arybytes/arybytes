@@ -73,22 +73,25 @@
 </div>
 
   <!-- Skills: Tools & Frameworks -->
-<div style="flex-basis: 10%;">
-    <h3>Ferramentas & Bibliotecas</h3>
-    <figure>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo">
-        <figcaption style="display: block; text-align: center;">Microsoft SQL Server</figcaption>
-    </figure>
-    <figure>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo">
-        <figcaption style="display: block; text-align: center;">MySQL</figcaption>
-    </figure>
-    <figure>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo">
-        <figcaption style="display: block; text-align: center;">Arduino</figcaption>
-    </figure>
-    <figure>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo">
-        <figcaption style="display: block; text-align: center;">PyCharm</figcaption>
-    </figure>
+<div style="flex-basis: 48%;">
+    <h3> Ferramentas & Bibliotecas </h3> 
+    <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+        <p>Microsoft SQL Server</p>
+    </div>
+    <img width="12" />
+    <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+        <p>MySQL</p>
+    </div>
+    <img width="12" />
+    <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+        <p>Arduino</p>
+    </div>
+    <img width="12" />
+    <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+        <p>PyCharm</p>
+    </div>
 </div>
