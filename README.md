@@ -7,7 +7,6 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
-###
 
 
 <div align="center">
@@ -21,7 +20,7 @@
 </div>
 
 <h1 align="center">👋 Hi, I'm Aryane! </h1>
-###
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 
