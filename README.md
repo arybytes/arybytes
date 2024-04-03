@@ -10,7 +10,7 @@
   
 - 📚 Atualmente estou cursando Engenharia da Computação.
 
-- 🔭 Estou em busca da minha primeira oportunidade de emprego.
+- 🔭 Estou em busca da minha primeira oportunidade de emprego/estágio.
 </p>
 
 <details>
