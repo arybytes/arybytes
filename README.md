@@ -72,13 +72,3 @@
   
 ###
 
-
-## 🔥 Minhas Estatisticas
-
-
-<br clear="both">
-<div style="flex-basis: 48%;">
-  <img src="https://streak-stats.demolab.com?user=arybytes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
-</div>
-
-###
