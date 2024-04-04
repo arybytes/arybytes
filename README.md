@@ -10,7 +10,7 @@
   
 - Estudante de Engenharia da Computação.
 
-- Estou direcionando meus esforços e aprimorando minhas habilidades no desenvolvimento de back-end.
+- Estou direcionando meus esforços e aprimorando minhas habilidades no desenvolvimento back-end.
 </p>
 
 <details>
