@@ -2,7 +2,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--título-->
-
 <p>
  Olá! meu nome é Aryane 👋 
 
@@ -13,16 +12,16 @@
 - Estou direcionando meus esforços e aprimorando minhas habilidades no desenvolvimento back-end.
 </p>
 
+<!--Descrições Adicionais-->
 <details>
   <summary> 👨‍💻 Mais sobre mim</summary>
 
    - Tenho experiência com SQL, Java, JavaScript, HTML, CSS e C++.
 
    - Gosto de ler, assistir filmes, jogar e curtir uma boa música (tipo Amy Winehouse)! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas.
-
-   
 </details>
 
+<!--Links Redes Sociais-->
 <div align="left">
   <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bq%2B9jHedPTUWfe7KfZXZh8g%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -36,14 +35,8 @@
 
 ###
 
-
-
-
-###
-
 ## Habilidades
-<!-- Skills: Programming Languages -->
-
+<!-- Skills: Linguagens de Programação -->
 <div style="flex-basis: 20%;">
     <h3>Linguagens de Programação</h3>
     <figure>
@@ -72,6 +65,7 @@
       </figure>
 </div>
 
+<!--Bibliotecas e Ferramentas-->
 <div style="flex-basis: 20%;">
     <h3> Ferramentas & Bibliotecas </h3> 
         <figure>
