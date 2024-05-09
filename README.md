@@ -5,7 +5,7 @@
 <p>
  Olá! meu nome é Aryane 👋 
 
-- Sou técnica em informática.
+- Sou técnica em informática pelo IFBA.
   
 - Estudante de Engenharia da Computação.
 
