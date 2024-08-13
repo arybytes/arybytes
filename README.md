@@ -1,15 +1,10 @@
-<!--divisor-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!--título-->
 <p>
  Olá! meu nome é Aryane 👋 
 
-- Sou técnica em informática pelo IFBA.
-  
-- Estudante de Engenharia da Computação.
-
-- Estou direcionando meus esforços e aprimorando minhas habilidades no desenvolvimento back-end.
+- Sou estudante de Engenharia da Computação e estou direcionando meus esforços e aprimorando minhas habilidades no desenvolvimento back-end em Java.
 </p>
 
 <!--Descrições Adicionais-->
