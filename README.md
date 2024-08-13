@@ -32,6 +32,10 @@
 <!-- Skills: Linguagens de Programação -->
 <div style="flex-basis: 20%;">
     <h3>Linguagens de Programação</h3>
+   <figure>
+        <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+        <figcaption style="display: block; text-align: center;">Java</figcaption>
+      </figure>
     <figure>
         <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <figcaption style="display: block; text-align: center;">JavaScript</figcaption>
@@ -52,10 +56,7 @@
         <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
         <figcaption style="display: block; text-align: center;">C</figcaption>
     </figure>
-    <figure>
-        <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-        <figcaption style="display: block; text-align: center;">Java</figcaption>
-      </figure>
+  
 </div>
 
 <!--Bibliotecas e Ferramentas-->
