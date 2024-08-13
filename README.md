@@ -15,10 +15,7 @@
 <!--Descrições Adicionais-->
 <details>
   <summary> 👨‍💻 Mais sobre mim</summary>
-
    - Tenho experiência com SQL, Java, JavaScript, HTML, CSS e C++.
-
-   - Gosto de ler, assistir filmes e curtir uma boa música (tipo Amy Winehouse)! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas.
 </details>
 
 <!--Links Redes Sociais-->
