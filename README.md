@@ -10,10 +10,6 @@
 </p>
 
 <!--Descrições Adicionais-->
-<details>
-  <summary> 👨‍💻 Mais sobre mim</summary>
-   - Tenho experiência com SQL, Java, JavaScript, HTML, CSS e C++.
-</details>
 
 <!--Links Redes Sociais-->
 <div align="left">
