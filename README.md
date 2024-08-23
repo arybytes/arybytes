@@ -20,7 +20,7 @@
 
 <!--Links Redes Sociais-->
 <!--Mude os links do Linkedln e discord para os seus-->
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/aryane-andrade" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
   </a>
