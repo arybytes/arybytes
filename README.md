@@ -29,12 +29,12 @@
 <div style="flex-basis: 20%;">
     <h3>Linguagens de Programação</h3>
    <figure>
-        <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+        <img align="center" alt="Java logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
         <figcaption style="display: block; text-align: center;">Java</figcaption>
       </figure>
 
   <figure>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  align="center" height="30"  width="40" alt="Spring"  />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  align="center" height="30"  width="40" alt="Spring logo"  />
         <figcaption style="display: block; text-align: center;">Spring </figcaption>
    </figure>
     <figure>
@@ -63,6 +63,15 @@
 <!--Bibliotecas e Ferramentas-->
 <div style="flex-basis: 20%;">
     <h3> Ferramentas & Bibliotecas </h3> 
+         <figure>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" width="40" alt="intellij logo" align="center"  />
+        <figcaption style="display: block; text-align: center;">InteliJ </figcaption>
+        </figure>
+         <figure>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="40" align="center" alt="postgresql logo"  />
+          <figcaption style="display: block; text-align: center;"> PostgreSQL </figcaption>
+        </figure>
+         </figure>
         <figure>
         <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="microsoftsqlserver logo"/>
         <figcaption style="display: block; text-align: center;">SQL Server</figcaption>
