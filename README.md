@@ -1,10 +1,10 @@
 
 <!--divisor-->
-<!--Para alterar a cor mude o codigo "color=0077B5" para a cor que voce quer-->
+<!--Para alterar a cor do template mude o codigo no link abaixo para a "color=0077B5" para a cor que voce quer-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header"/>
 
 <!--Escrita Interativa-->
-<!--Para alterar as frases interativas mude abaixo "Olá,+meu+nome+é+Aryane;Bem-vindo(a)+ao+meu+GitHub!" -->
+<!--Para alterar as frases interativas mude no link abaixo a parte "Olá,+meu+nome+é+Aryane;Bem-vindo(a)+ao+meu+GitHub!" -->
 <!--Para alterar a cor da frase mude o codigo "color=0077B5"-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077B5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Aryane;Bem-vindo(a)+ao+meu+GitHub!+:%29)](https://git.io/typing-svg) 
 
@@ -20,12 +20,12 @@
 
 <!--Links Redes Sociais-->
 <!--Mude os links do Linkedln e discord para os seus-->
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/aryane-andrade" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/1118875502581657650" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="discord logo"  />
     </a>
 </div>
 
