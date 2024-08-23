@@ -41,6 +41,10 @@
         <figcaption style="display: block; text-align: center;">Spring </figcaption>
    </figure>
     <figure>
+        <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <figcaption style="display: block; text-align: center;">Python</figcaption>
+    </figure>
+    <figure>
         <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <figcaption style="display: block; text-align: center;">JavaScript</figcaption>
     </figure>
@@ -51,14 +55,6 @@
     <figure>
         <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <figcaption style="display: block; text-align: center;">CSS</figcaption>
-    </figure>
-    <figure>
-        <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-        <figcaption style="display: block; text-align: center;">Python</figcaption>
-    </figure>
-    <figure>
-        <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-        <figcaption style="display: block; text-align: center;">C</figcaption>
     </figure>
   
 </div>
@@ -87,10 +83,6 @@
         <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql logo"/>
         <figcaption style="display: block; text-align: center;">MySQL</figcaption>
         </figure>  
-        <figure>
-        <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino logo"/>
-        <figcaption style="display: block; text-align: center;">Arduino</figcaption>
-        </figure>
         <figure>
         <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm logo"  />
         <figcaption style="display: block; text-align: center;">PyCharm</figcaption>
