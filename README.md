@@ -34,7 +34,7 @@
       </figure>
 
   <figure>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30"  width="40" alt="spring logo"  />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  align="center" height="30"  width="40" alt="Spring"  />
         <figcaption style="display: block; text-align: center;">Spring </figcaption>
    </figure>
     <figure>
