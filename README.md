@@ -1,18 +1,25 @@
-<!--divisor-->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0033A0&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0033A0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Aryane;Be+Welcome!+:%29)](https://git.io/typing-svg) 
-<!--título-->
+<!--divisor-->
+<!--Para alterar a cor mude o codigo "color=0077B5" para a cor que voce quer-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header"/>
+
+<!--Escrita Interativa-->
+<!--Para alterar as frases interativas mude abaixo "Olá,+meu+nome+é+Aryane;Bem-vindo(a)+ao+meu+GitHub!" -->
+<!--Para alterar a cor da frase mude o codigo "color=0077B5"-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077B5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Aryane;Bem-vindo(a)+ao+meu+GitHub!+:%29)](https://git.io/typing-svg) 
+
+
+<!--Informações-->
 <p>
- 
+
+  
  - Sou estudante de Engenharia da Computação.
  - Estou direcionando meus esforços e aprimorando minhas habilidades no desenvolvimento back-end em Java.
 </p>
 
-<!--Descrições Adicionais-->
 
 <!--Links Redes Sociais-->
+<!--Mude os links do Linkedln e discord para os seus-->
 <div align="left">
   <a href="https://www.linkedin.com/in/aryane-andrade" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -33,7 +40,6 @@
         <img align="center" alt="Java logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
         <figcaption style="display: block; text-align: center;">Java</figcaption>
       </figure>
-
   <figure>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  align="center" height="30"  width="40" alt="Spring logo"  />
         <figcaption style="display: block; text-align: center;">Spring </figcaption>
@@ -54,7 +60,6 @@
         <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <figcaption style="display: block; text-align: center;">CSS</figcaption>
     </figure>
-  
 </div>
 
 <!--Bibliotecas e Ferramentas-->
