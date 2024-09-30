@@ -11,7 +11,7 @@
 <p>
 
   
- - Sou estudante de Engenharia da Computação.
+ - Sou estudante de Ciência da Computação.
  - Estou direcionando meus esforços e aprimorando minhas habilidades no desenvolvimento back-end em Java.
 </p>
 
